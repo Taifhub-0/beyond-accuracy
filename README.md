@@ -42,11 +42,16 @@ Before trusting any model, ask:
 - Was performance tested on independent, unseen data?
 
 ## Team & Contributions
-This project was completed collaboratively by a team of three students as part of the Machine Learning course.
+This project was completed collaboratively by a team of three students as part of the **Machine Learning course** at **Al-Baha University**.
 
-**My contribution:** I wrote Sections 3, 7, and 8 of the report (Data Leakage case study, Algorithmic Bias, and Conclusion & Recommendations), and formatted and structured the final document.
+### My Contribution
+- **Sections written:** Data Leakage Case Study, Algorithmic Bias, Conclusion & Recommendations
+- **Responsibilities:** Report structure, document formatting, analysis write-up
+
 ## Supervisor
-Dr. Saad Algithami
+**Dr. Saad Algithami**  
+Faculty of Computing and Information  
+Al-Baha University — 2026
 
-## Course
-Machine Learning — Faculty of Computing and Information, Al-Baha University — 2026
+## License
+MIT License - Feel free to use this for educational purposes.
