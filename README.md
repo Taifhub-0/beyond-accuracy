@@ -41,11 +41,10 @@ Before trusting any model, ask:
 - Were F1, precision, and recall checked — not just accuracy?
 - Was performance tested on independent, unseen data?
 
-## Team
-- Malath Al-Harthy — 442006687
-- Taif Alzahrani — 443038092
-- Hadeel Al-Zahrani — 444022117
+## Team & Contributions
+This project was completed collaboratively by a team of three students as part of the Machine Learning course.
 
+**My contribution:** I wrote Sections 3, 7, and 8 of the report (Data Leakage case study, Algorithmic Bias, and Conclusion & Recommendations), and formatted and structured the final document.
 ## Supervisor
 Dr. Saad Algithami
 
