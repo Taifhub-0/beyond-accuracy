@@ -23,33 +23,24 @@ The confusion matrix confirmed this: a perfect diagonal across all 41 disease cl
 Python · pandas · numpy · scikit-learn (KNN, SVM, Random Forest) · matplotlib · seaborn · Google Colab
 
 ## Files in This Repo
-notebook.ipynb — full analysis: preprocessing, model training, duplicate detection, evaluation
-  
-report.pdf — full project report
-  
-presentation.pdf — project slides
+- notebook.ipynb — full analysis: preprocessing, model training, duplicate detection, evaluation
+- report.pdf — full project report
+- presentation.pdf — project slides
 
 
 ## How to Run
-Open notebook.ipynb in Google Colab or Jupyter.
-
-Install dependencies: pip install pandas numpy scikit-learn matplotlib seaborn
-
-Run all cells in order.
+- Open notebook.ipynb in Google Colab or Jupyter.
+- Install dependencies: pip install pandas numpy scikit-learn matplotlib seaborn
+- Run all cells in order.
 
 
 ## Practical Checklist (from our conclusions)
-Before trusting any model, ask:
-
-Was the train-test split done before preprocessing?
-
-Are there duplicate records that crossed the split boundary?
-
-Was the model compared against a simple baseline?
-
-Were F1, precision, and recall checked — not just accuracy?
-
-Was performance tested on independent, unseen data?
+- Before trusting any model, ask:
+- Was the train-test split done before preprocessing?
+- Are there duplicate records that crossed the split boundary?
+- Was the model compared against a simple baseline?
+- Were F1, precision, and recall checked — not just accuracy?
+- Was performance tested on independent, unseen data?
 
 
 ## Team & Contributions
